@@ -1,6 +1,6 @@
 # Financial News Sentiment Analysis
 <h2>📌 About the Project</h2>
-<p>This project is designed to analyze financial news articles and extract critical insights, trends, and sentiment patterns. By leveraging machine learning and natural language processing (NLP), it helps interpret how financial news influences stock movements.</p>
+<p>This project is designed to analyze financial news articles and extract critical insights, trends, and sentiment patterns. By leveraging machine learning and random forest classification, it helps interpret how financial news influences stock movements.</p>
 
 <h2>🔍 Key Features</h2>
 <ul>
